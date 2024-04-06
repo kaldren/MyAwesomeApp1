@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Person
+{
+    public void SayHello(string name)
+    {
+        Console.WriteLine("Hello!");
+    }
+}
